@@ -1,0 +1,211 @@
+.navbar{
+    background-color: #673AB7
+    !important;
+    
+
+}
+.nav-link{
+    color: white !important;
+     font-weight: bold !important;
+     font-family: "Trebuchet MS", Helvetica, sans-serif!important;
+    // font-size: larger !important ;
+ 
+    
+}
+
+.nav-link:hover, .footer{
+   background-color: black !important;
+   border-radius: 5px !important;
+}
+.fa-shopping-bag,.fa-shopping-cart
+{
+    font-size: 25px !important;
+    color: #FFF59D  !important;
+}
+.heading{
+    text-align: center;
+    width: 300px;
+    height: 60px;
+    margin-top: 20px;
+    color: black;
+    font-weight: bolder;
+    text-shadow: 12px 12px 12px #FFF59D ;
+    font-style: italic;
+    font-family: Impact, Charcoal, sans-serif;
+    text-decoration:  #673AB7 underline; 
+    font-size: 40px;
+    border: 5px outset #FFF59D ;
+
+}
+.container{
+    margin-top: 20px !important;
+}
+.card{
+   // justify-content: space-around !important;
+    width: 230px !important;
+    margin-bottom: 20px !important;
+    margin-left: 50px;  
+}
+
+.card-text{
+    font-family: Arial, Helvetica, "sans-serif";
+    font-weight: bold;
+    font-size: larger;
+    background-color:#FFF59D ;
+    color: #673AB7;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bolder;
+    text-decoration: underline black;
+    text-shadow: 2px 2px 2px black ;
+}
+.help{
+    font-weight: bold;
+    font-size: larger;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    margin-top: 20px;
+    margin-left: 20px;
+ 
+}
+.icon{
+    font-weight: bold;
+    font-size: larger;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+    
+  
+}
+.fa-facebook,.fa-instagram,.fa-youtube,.fa-twitter
+{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+}
+.STITCHED ,.collection 
+{
+   
+    border: 5PX outset  #FFF59D ;
+    width: 350px;
+    height: 60px;
+    margin-top: 60px;
+   // margin-right: 100px;
+    font-weight: bolder;
+    text-shadow: 12px 12px 12px #FFF59D ;
+    font-style: italic;
+    font-family: Impact, Charcoal, sans-serif;
+    text-decoration:  #673AB7 underline; 
+    font-size: 35px;
+    text-align:center;
+
+    
+ 
+}
+
+.footer{
+    background-color: #673AB7!important;
+    color: white !important;
+     font-weight: bold !important;
+     margin-top: 20px;
+     margin-left: 50px !important;
+
+
+}
+.price{
+    color: #673AB7;
+    border: 4px solid black;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #FFF59D ;
+    box-shadow: 4px 4px 4px 4px grey ;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bolder;
+    text-decoration: underline black;
+}
+
+    .image{
+        width: 200px !important;
+        height: 200px !important;
+        border-image:  30 round !important;
+    }
+    .edit{
+    color: indigo !important;
+    font-weight: bold !important;
+    font-size: 18px !important;
+    font-family: "Trebuchet MS" !important;
+    text-shadow: 4px 4px 4px black;
+    opacity: 0.9;
+    }
+    .edit1{
+        color: indigo !important;
+        font-weight: bold !important;
+        font-size: 20px !important;
+        font-family: "Trebuchet MS" !important;
+        text-shadow: 4px 4px 4px black;
+        border: 4px ridge black !important;
+        margin-left: 70px;
+        background-color: #FFF59D;
+    }
+    
+.EDIT3{
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 50px;
+    text-align: center;
+    color: indigo;
+    text-shadow: 6px 6px 6px grey;
+    font-family: 'fantasy';
+    margin-top: 20px;
+    margin-right: 50px;
+
+}
+   .card-text-cards
+  {
+      font-family:  'sans-serif '!important;
+      text-decoration: none;
+      background-color: white;
+      color: indigo !important;  
+      font-weight: bolder !important; 
+      font-size: 25px !important;
+      font-style: italic !important;
+      text-align: center !important ;
+      text-shadow: 4px 4px 4px black !important;
+}
+.card-body{
+    height: 100px !important;
+
+}
+.kids{
+    margin-top: 60px;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: initial;
+    color: white;
+    text-shadow: 12px 12px 12px #FFF59D; 
+    box-shadow: 8px 8px 8px grey;
+   width: 400px;
+    font-family: Times New Roman, Times, 'serif';
+  text-align: center;
+  margin-right: 50px;
+  background-color: black;
+
+}
+.text{
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: initial;
+    color:  white;
+    text-shadow: 12px 12px 12px #FFF59D; 
+    box-shadow: 8px 8px 8px grey;
+    width: 350px;
+    font-family: Times New Roman, Times, 'serif';
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+}
+button{
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+}
